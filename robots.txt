@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://8gym.app/sitemap.xml
